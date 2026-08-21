@@ -31,4 +31,4 @@ pipeline {
             echo 'Build en échec — vérifier les logs ci-dessus'
         }
     }
-}
+}// test webhook Fri Aug 21 19:31:00 +01 2026
