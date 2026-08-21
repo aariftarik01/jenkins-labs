@@ -1,4 +1,3 @@
-cat > ~/devops-labs/jenkins-labs/Jenkinsfile << 'EOF'
 pipeline {
     agent any
 
@@ -33,4 +32,3 @@ pipeline {
         }
     }
 }
-EOF
